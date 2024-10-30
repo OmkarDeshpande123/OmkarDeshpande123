@@ -1,6 +1,6 @@
 ### Hi there ###
-NAME        :Omkar Deshpande
-INTRO       :Just a tech enthusiast trying to learn new things!
-SKILLS      :I use CSS and JS for Frontend and HTML for backend java devloper
+NAME        : Omkar Deshpande
+INTRO       : Just a tech enthusiast trying to learn new things!
+SKILLS      : HTML, CSS, JS, Python, Machine Learning
 PROJECTS    : None
-GITHUB STATS:
+
